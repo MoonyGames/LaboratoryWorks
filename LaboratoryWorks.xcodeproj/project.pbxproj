@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AB14BDA327026A4D0021F234 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB14BDA227026A4D0021F234 /* 2.cpp */; };
 		AB14BDA527026AFF0021F234 /* 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB14BDA427026AFF0021F234 /* 3.cpp */; };
+		AB14BDA727026BC60021F234 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB14BDA627026BC60021F234 /* 4.cpp */; };
 		ABD16B3627025FC3002801D9 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABD16B3527025FC3002801D9 /* 1.cpp */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,7 @@
 /* Begin PBXFileReference section */
 		AB14BDA227026A4D0021F234 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
 		AB14BDA427026AFF0021F234 /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
+		AB14BDA627026BC60021F234 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		ABD16B3227025FC3002801D9 /* LaboratoryWorks */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LaboratoryWorks; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABD16B3527025FC3002801D9 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -48,6 +50,7 @@
 				ABD16B3527025FC3002801D9 /* 1.cpp */,
 				AB14BDA227026A4D0021F234 /* 2.cpp */,
 				AB14BDA427026AFF0021F234 /* 3.cpp */,
+				AB14BDA627026BC60021F234 /* 4.cpp */,
 			);
 			path = "Лабораторная работа 3";
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			files = (
 				AB14BDA527026AFF0021F234 /* 3.cpp in Sources */,
 				AB14BDA327026A4D0021F234 /* 2.cpp in Sources */,
+				AB14BDA727026BC60021F234 /* 4.cpp in Sources */,
 				ABD16B3627025FC3002801D9 /* 1.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
