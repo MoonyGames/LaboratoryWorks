@@ -9,4 +9,6 @@ int main(int argc, const char * argv[]) {
     cin >> d; //Вводим диаметр
     
     cout << "L = " << pi * d << endl; //Выводим посчитанную длину L
+    
+    return 0;
 }
