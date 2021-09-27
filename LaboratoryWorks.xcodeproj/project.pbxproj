@@ -46,7 +46,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		AB14BD9C270268220021F234 /* Лабораторная работа 3 */ = {
+		AB14BD9C270268220021F234 /* Лабораторная работа 4 */ = {
 			isa = PBXGroup;
 			children = (
 				ABD16B3527025FC3002801D9 /* 1.cpp */,
@@ -55,7 +55,7 @@
 				AB14BDA627026BC60021F234 /* 4.cpp */,
 				AB14BDA827026DDA0021F234 /* 5.cpp */,
 			);
-			path = "Лабораторная работа 3";
+			path = "Лабораторная работа 4";
 			sourceTree = "<group>";
 		};
 		ABD16B2927025FC3002801D9 = {
@@ -77,7 +77,7 @@
 		ABD16B3427025FC3002801D9 /* LaboratoryWorks */ = {
 			isa = PBXGroup;
 			children = (
-				AB14BD9C270268220021F234 /* Лабораторная работа 3 */,
+				AB14BD9C270268220021F234 /* Лабораторная работа 4 */,
 			);
 			path = LaboratoryWorks;
 			sourceTree = "<group>";
