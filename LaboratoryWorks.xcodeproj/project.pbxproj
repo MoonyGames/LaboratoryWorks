@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ABD16B3627025FC3002801D9 /* Laboratory Work 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABD16B3527025FC3002801D9 /* Laboratory Work 3.cpp */; };
+		AB14BDA327026A4D0021F234 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB14BDA227026A4D0021F234 /* 2.cpp */; };
+		ABD16B3627025FC3002801D9 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABD16B3527025FC3002801D9 /* 1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +24,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		AB14BDA227026A4D0021F234 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
 		ABD16B3227025FC3002801D9 /* LaboratoryWorks */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LaboratoryWorks; sourceTree = BUILT_PRODUCTS_DIR; };
-		ABD16B3527025FC3002801D9 /* Laboratory Work 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Laboratory Work 3.cpp"; sourceTree = "<group>"; };
+		ABD16B3527025FC3002801D9 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AB14BD9C270268220021F234 /* Лабораторная работа 3 */ = {
+			isa = PBXGroup;
+			children = (
+				ABD16B3527025FC3002801D9 /* 1.cpp */,
+				AB14BDA227026A4D0021F234 /* 2.cpp */,
+			);
+			path = "Лабораторная работа 3";
+			sourceTree = "<group>";
+		};
 		ABD16B2927025FC3002801D9 = {
 			isa = PBXGroup;
 			children = (
@@ -57,7 +68,7 @@
 		ABD16B3427025FC3002801D9 /* LaboratoryWorks */ = {
 			isa = PBXGroup;
 			children = (
-				ABD16B3527025FC3002801D9 /* Laboratory Work 3.cpp */,
+				AB14BD9C270268220021F234 /* Лабораторная работа 3 */,
 			);
 			path = LaboratoryWorks;
 			sourceTree = "<group>";
@@ -118,7 +129,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ABD16B3627025FC3002801D9 /* Laboratory Work 3.cpp in Sources */,
+				AB14BDA327026A4D0021F234 /* 2.cpp in Sources */,
+				ABD16B3627025FC3002801D9 /* 1.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
