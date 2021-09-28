@@ -14,6 +14,7 @@
 		AB69DCFB2703025B00BC6232 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB69DCFA2703025B00BC6232 /* 1.cpp */; };
 		AB69DCFD2703053800BC6232 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB69DCFC2703053800BC6232 /* 2.cpp */; };
 		AB69DCFF270308F000BC6232 /* 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB69DCFE270308F000BC6232 /* 3.cpp */; };
+		AB69DD012703096900BC6232 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB69DD002703096900BC6232 /* 4.cpp */; };
 		ABD16B3627025FC3002801D9 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABD16B3527025FC3002801D9 /* 1.cpp */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +38,7 @@
 		AB69DCFA2703025B00BC6232 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		AB69DCFC2703053800BC6232 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
 		AB69DCFE270308F000BC6232 /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
+		AB69DD002703096900BC6232 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		ABD16B3227025FC3002801D9 /* LaboratoryWorks */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LaboratoryWorks; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABD16B3527025FC3002801D9 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -70,6 +72,7 @@
 				AB69DCFA2703025B00BC6232 /* 1.cpp */,
 				AB69DCFC2703053800BC6232 /* 2.cpp */,
 				AB69DCFE270308F000BC6232 /* 3.cpp */,
+				AB69DD002703096900BC6232 /* 4.cpp */,
 			);
 			path = "Лабораторная работа 5";
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB69DD012703096900BC6232 /* 4.cpp in Sources */,
 				AB14BDA527026AFF0021F234 /* 3.cpp in Sources */,
 				AB69DCFF270308F000BC6232 /* 3.cpp in Sources */,
 				AB14BDA327026A4D0021F234 /* 2.cpp in Sources */,
