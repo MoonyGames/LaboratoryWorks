@@ -19,11 +19,8 @@ int main(int argc, const char * argv[]) {
     
     ac = pow((pow(x3 - x1, 2) + pow(y3 - y1, 2)), 0.5); //Считаем расстояние по формуле, используя функция pow(x, y) из библиотеки math.h
     bc = pow((pow(x3 - x2, 2) + pow(y3 - y2, 2)), 0.5);
-    
-    cout << "Расстояние между точками AC: " << ac << endl;
-    cout << "Расстояние между точками BC: " << bc << endl;
-    
-    cout << "Сумма расстояний между AB и BC: " << ac + bc << endl;
+
+    cout << "Сумма расстояний между AB и BC: " << ac * bc << endl;
     
     return 0;
 }
