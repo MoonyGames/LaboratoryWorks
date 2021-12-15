@@ -8,6 +8,13 @@ int main(int argc, const char * argv[]) {
     
     cin >> a;
     
-    a = a * a;
-
+    aE = a * a;
+    
+    aE *= aE;
+    aE *= aE;
+    aE *= aE;
+    
+    aE *= (1 / a);
+    
+    cout << aE;
 }
