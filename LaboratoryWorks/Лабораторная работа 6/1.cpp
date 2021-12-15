@@ -4,7 +4,10 @@
 using namespace std; //Подключили пространство имен std, чтобы не писать std каждый раз уточнение при использовании функции из библиотеки
 
 int main(int argc, const char * argv[]) {
-    int a = 1, b = 2;
+    double a, b;
+    
+    cout << "Введите два числа через пробел: ";
+    cin >> a >> b;
     
     b += a;
     a = b - a;
