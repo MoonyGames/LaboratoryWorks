@@ -9,4 +9,6 @@ int main(int argc, const char * argv[]) {
     cin >> x;
     
     cout << "y = " << 4 * pow((x - 3), 6) - 7 * pow((x - 3), 3) + 2;
+    
+    return 0;
 }

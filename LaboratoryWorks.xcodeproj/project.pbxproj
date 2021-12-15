@@ -12,6 +12,7 @@
 		AB14BDA727026BC60021F234 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB14BDA627026BC60021F234 /* 4.cpp */; };
 		AB14BDA927026DDA0021F234 /* 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB14BDA827026DDA0021F234 /* 5.cpp */; };
 		AB32D35D276A2B6700642A91 /* 7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB32D35C276A2B6700642A91 /* 7.cpp */; };
+		AB32D360276A323100642A91 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB32D35F276A323100642A91 /* 1.cpp */; };
 		AB53F09E2767958F00719567 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB53F09D2767958F00719567 /* 4.cpp */; };
 		AB53F0A02767995600719567 /* 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB53F09F2767995600719567 /* 5.cpp */; };
 		AB53F0A227679A1200719567 /* 6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB53F0A127679A1200719567 /* 6.cpp */; };
@@ -44,6 +45,7 @@
 		AB14BDA627026BC60021F234 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		AB14BDA827026DDA0021F234 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
 		AB32D35C276A2B6700642A91 /* 7.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 7.cpp; sourceTree = "<group>"; };
+		AB32D35F276A323100642A91 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		AB53F09D2767958F00719567 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		AB53F09F2767995600719567 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
 		AB53F0A127679A1200719567 /* 6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6.cpp; sourceTree = "<group>"; };
@@ -80,6 +82,14 @@
 				AB14BDA827026DDA0021F234 /* 5.cpp */,
 			);
 			path = "Лабораторная работа 4";
+			sourceTree = "<group>";
+		};
+		AB32D35E276A321F00642A91 /* Лабораторная работа 7 */ = {
+			isa = PBXGroup;
+			children = (
+				AB32D35F276A323100642A91 /* 1.cpp */,
+			);
+			path = "Лабораторная работа 7";
 			sourceTree = "<group>";
 		};
 		AB69DCF92703024A00BC6232 /* Лабораторная работа 5 */ = {
@@ -127,6 +137,7 @@
 		ABD16B3427025FC3002801D9 /* LaboratoryWorks */ = {
 			isa = PBXGroup;
 			children = (
+				AB32D35E276A321F00642A91 /* Лабораторная работа 7 */,
 				ABCC79B4273EBB9000F065C7 /* Лабораторная работа 6 */,
 				AB69DCF92703024A00BC6232 /* Лабораторная работа 5 */,
 				AB14BD9C270268220021F234 /* Лабораторная работа 4 */,
@@ -199,6 +210,7 @@
 				AB69DCFF270308F000BC6232 /* 3.cpp in Sources */,
 				AB14BDA327026A4D0021F234 /* 2.cpp in Sources */,
 				AB14BDA727026BC60021F234 /* 4.cpp in Sources */,
+				AB32D360276A323100642A91 /* 1.cpp in Sources */,
 				AB53F0A02767995600719567 /* 5.cpp in Sources */,
 				AB69DCFB2703025B00BC6232 /* 1.cpp in Sources */,
 				ABD16B3627025FC3002801D9 /* 1.cpp in Sources */,

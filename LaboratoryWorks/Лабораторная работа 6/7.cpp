@@ -17,4 +17,6 @@ int main(int argc, const char * argv[]) {
     aE *= (1 / a);
     
     cout << aE;
+    
+    return 0;
 }
