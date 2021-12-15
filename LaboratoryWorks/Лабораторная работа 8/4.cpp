@@ -4,7 +4,7 @@
 using namespace std; //Подключили пространство имен std, чтобы не писать std каждый раз уточнение при использовании функции из библиотеки
 
 int main(int argc, const char * argv[]) {
-    int number, first, second;
+    int number;
     
     cout << "Напишите двузначное число: ";
     cin >> number;
