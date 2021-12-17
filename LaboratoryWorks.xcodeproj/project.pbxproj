@@ -35,6 +35,7 @@
 		AB32D371276A5F4800642A91 /* 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB32D370276A5F4800642A91 /* 3.cpp */; };
 		AB32D373276A5FB200642A91 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB32D372276A5FB200642A91 /* 4.cpp */; };
 		AB32D375276A61E600642A91 /* 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB32D374276A61E600642A91 /* 5.cpp */; };
+		AB50F5B7276CDD96009169B3 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB50F5B6276CDD96009169B3 /* 1.cpp */; };
 		AB53F09E2767958F00719567 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB53F09D2767958F00719567 /* 4.cpp */; };
 		AB53F0A02767995600719567 /* 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB53F09F2767995600719567 /* 5.cpp */; };
 		AB53F0A227679A1200719567 /* 6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB53F0A127679A1200719567 /* 6.cpp */; };
@@ -90,6 +91,7 @@
 		AB32D370276A5F4800642A91 /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
 		AB32D372276A5FB200642A91 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		AB32D374276A61E600642A91 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
+		AB50F5B6276CDD96009169B3 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		AB53F09D2767958F00719567 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		AB53F09F2767995600719567 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
 		AB53F0A127679A1200719567 /* 6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6.cpp; sourceTree = "<group>"; };
@@ -182,6 +184,7 @@
 		AB50F5B5276CDD6D009169B3 /* Лабораторная работа 11 */ = {
 			isa = PBXGroup;
 			children = (
+				AB50F5B6276CDD96009169B3 /* 1.cpp */,
 			);
 			path = "Лабораторная работа 11";
 			sourceTree = "<group>";
@@ -330,6 +333,7 @@
 				AB1446BF276B62DB0072E854 /* 6.cpp in Sources */,
 				AB69DCFB2703025B00BC6232 /* 1.cpp in Sources */,
 				AB32D36D276A57A300642A91 /* 1.cpp in Sources */,
+				AB50F5B7276CDD96009169B3 /* 1.cpp in Sources */,
 				AB32D364276A33EA00642A91 /* 3.cpp in Sources */,
 				ABD16B3627025FC3002801D9 /* 1.cpp in Sources */,
 				AB32D35D276A2B6700642A91 /* 7.cpp in Sources */,
