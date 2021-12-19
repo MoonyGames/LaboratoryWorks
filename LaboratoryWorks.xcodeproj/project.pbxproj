@@ -58,6 +58,7 @@
 		ABD16B3627025FC3002801D9 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABD16B3527025FC3002801D9 /* 1.cpp */; };
 		ABF93A32276E0DFA005F7498 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABF93A31276E0DFA005F7498 /* 4.cpp */; };
 		ABF93A34276F3C44005F7498 /* 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABF93A33276F3C44005F7498 /* 5.cpp */; };
+		ABF93A37276F57E1005F7498 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABF93A36276F57E1005F7498 /* 1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -125,6 +126,7 @@
 		ABD16B3527025FC3002801D9 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		ABF93A31276E0DFA005F7498 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		ABF93A33276F3C44005F7498 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
+		ABF93A36276F57E1005F7498 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -271,6 +273,7 @@
 		ABD16B3427025FC3002801D9 /* LaboratoryWorks */ = {
 			isa = PBXGroup;
 			children = (
+				ABF93A35276F55A9005F7498 /* Лабораторная работа 13 */,
 				AB50F5C2276CEC03009169B3 /* Лабораторная работа 12 */,
 				AB50F5B5276CDD6D009169B3 /* Лабораторная работа 11 */,
 				AB1446B3276B59BF0072E854 /* Лабораторная работа 10 */,
@@ -282,6 +285,14 @@
 				AB14BD9C270268220021F234 /* Лабораторная работа 4 */,
 			);
 			path = LaboratoryWorks;
+			sourceTree = "<group>";
+		};
+		ABF93A35276F55A9005F7498 /* Лабораторная работа 13 */ = {
+			isa = PBXGroup;
+			children = (
+				ABF93A36276F57E1005F7498 /* 1.cpp */,
+			);
+			path = "Лабораторная работа 13";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -379,6 +390,7 @@
 				AB1446B5276B59D10072E854 /* 1.cpp in Sources */,
 				AB1446BF276B62DB0072E854 /* 6.cpp in Sources */,
 				AB69DCFB2703025B00BC6232 /* 1.cpp in Sources */,
+				ABF93A37276F57E1005F7498 /* 1.cpp in Sources */,
 				AB32D36D276A57A300642A91 /* 1.cpp in Sources */,
 				AB50F5B7276CDD96009169B3 /* 1.cpp in Sources */,
 				AB32D364276A33EA00642A91 /* 3.cpp in Sources */,
