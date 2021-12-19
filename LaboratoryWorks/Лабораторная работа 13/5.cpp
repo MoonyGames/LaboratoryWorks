@@ -10,18 +10,20 @@ int main(int argc, const char * argv[]) {
     float sum = 0;
     float i = 1;
     
+    int signs[2] = {1, -1};
+    
     
     cout << "Введите число N и число A через пробел: ";
     cin >> n >> a;
     
     while (i <= pow(a, n)){
-        sum += i;
+        sum = sum + i * signs[k % 2];
         i = pow(a, k);
         
         k++;
     }
     
-    cout << "Cумма равна: " << sum;
+    cout << "Cумма равна: " << -sum;
     
     return 0;
 }

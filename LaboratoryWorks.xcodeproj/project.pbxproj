@@ -62,6 +62,7 @@
 		ABF93A39276F5C46005F7498 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABF93A38276F5C46005F7498 /* 2.cpp */; };
 		ABF93A3B276F6308005F7498 /* 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABF93A3A276F6308005F7498 /* 3.cpp */; };
 		ABF93A3D276F6731005F7498 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABF93A3C276F6731005F7498 /* 4.cpp */; };
+		ABF93A3F276F6A03005F7498 /* 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABF93A3E276F6A03005F7498 /* 5.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -133,6 +134,7 @@
 		ABF93A38276F5C46005F7498 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
 		ABF93A3A276F6308005F7498 /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
 		ABF93A3C276F6731005F7498 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
+		ABF93A3E276F6A03005F7498 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -300,6 +302,7 @@
 				ABF93A38276F5C46005F7498 /* 2.cpp */,
 				ABF93A3A276F6308005F7498 /* 3.cpp */,
 				ABF93A3C276F6731005F7498 /* 4.cpp */,
+				ABF93A3E276F6A03005F7498 /* 5.cpp */,
 			);
 			path = "Лабораторная работа 13";
 			sourceTree = "<group>";
@@ -395,6 +398,7 @@
 				AB14BDA727026BC60021F234 /* 4.cpp in Sources */,
 				AB1446B9276B5B9C0072E854 /* 3.cpp in Sources */,
 				AB32D360276A323100642A91 /* 1.cpp in Sources */,
+				ABF93A3F276F6A03005F7498 /* 5.cpp in Sources */,
 				AB32D368276A4EA200642A91 /* 5.cpp in Sources */,
 				AB53F0A02767995600719567 /* 5.cpp in Sources */,
 				AB1446B5276B59D10072E854 /* 1.cpp in Sources */,
