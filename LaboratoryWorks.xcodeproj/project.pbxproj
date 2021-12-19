@@ -56,6 +56,7 @@
 		ABCC79B8273EBE0900F065C7 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABCC79B7273EBE0900F065C7 /* 2.cpp */; };
 		ABCC79BA273EC72700F065C7 /* 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABCC79B9273EC72700F065C7 /* 3.cpp */; };
 		ABD16B3627025FC3002801D9 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABD16B3527025FC3002801D9 /* 1.cpp */; };
+		ABF93A32276E0DFA005F7498 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABF93A31276E0DFA005F7498 /* 4.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -121,6 +122,7 @@
 		ABCC79B9273EC72700F065C7 /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
 		ABD16B3227025FC3002801D9 /* LaboratoryWorks */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LaboratoryWorks; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABD16B3527025FC3002801D9 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
+		ABF93A31276E0DFA005F7498 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 				AB50F5C3276CEC29009169B3 /* 1.cpp */,
 				AB50F5C5276CEF36009169B3 /* 2.cpp */,
 				AB50F5C7276CF800009169B3 /* 3.cpp */,
+				ABF93A31276E0DFA005F7498 /* 4.cpp */,
 			);
 			path = "Лабораторная работа 12";
 			sourceTree = "<group>";
@@ -350,6 +353,7 @@
 				AB53F09E2767958F00719567 /* 4.cpp in Sources */,
 				AB50F5B9276CDEBC009169B3 /* 2.cpp in Sources */,
 				AB1446BD276B61830072E854 /* 5.cpp in Sources */,
+				ABF93A32276E0DFA005F7498 /* 4.cpp in Sources */,
 				AB32D375276A61E600642A91 /* 5.cpp in Sources */,
 				AB1446B0276B56F00072E854 /* 4.cpp in Sources */,
 				AB50F5BB276CDF43009169B3 /* 3.cpp in Sources */,
