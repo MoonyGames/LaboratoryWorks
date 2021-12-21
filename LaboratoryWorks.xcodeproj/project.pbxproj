@@ -47,6 +47,12 @@
 		AB53F09E2767958F00719567 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB53F09D2767958F00719567 /* 4.cpp */; };
 		AB53F0A02767995600719567 /* 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB53F09F2767995600719567 /* 5.cpp */; };
 		AB53F0A227679A1200719567 /* 6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB53F0A127679A1200719567 /* 6.cpp */; };
+		AB62309427720953001ABD23 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB62309327720953001ABD23 /* 1.cpp */; };
+		AB6230962772095B001ABD23 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB6230952772095B001ABD23 /* 2.cpp */; };
+		AB62309827720964001ABD23 /* 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB62309727720964001ABD23 /* 3.cpp */; };
+		AB62309A2772096A001ABD23 /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB6230992772096A001ABD23 /* 4.cpp */; };
+		AB62309C27720973001ABD23 /* 5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB62309B27720973001ABD23 /* 5.cpp */; };
+		AB62309E2772097B001ABD23 /* 6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB62309D2772097B001ABD23 /* 6.cpp */; };
 		AB69DCFB2703025B00BC6232 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB69DCFA2703025B00BC6232 /* 1.cpp */; };
 		AB69DCFD2703053800BC6232 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB69DCFC2703053800BC6232 /* 2.cpp */; };
 		AB69DCFF270308F000BC6232 /* 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB69DCFE270308F000BC6232 /* 3.cpp */; };
@@ -124,6 +130,12 @@
 		AB53F09D2767958F00719567 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		AB53F09F2767995600719567 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
 		AB53F0A127679A1200719567 /* 6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6.cpp; sourceTree = "<group>"; };
+		AB62309327720953001ABD23 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
+		AB6230952772095B001ABD23 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
+		AB62309727720964001ABD23 /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
+		AB6230992772096A001ABD23 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
+		AB62309B27720973001ABD23 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
+		AB62309D2772097B001ABD23 /* 6.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6.cpp; sourceTree = "<group>"; };
 		AB69DCFA2703025B00BC6232 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		AB69DCFC2703053800BC6232 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
 		AB69DCFE270308F000BC6232 /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
@@ -248,6 +260,19 @@
 			path = "Лабораторная работа 12";
 			sourceTree = "<group>";
 		};
+		AB6230922772093A001ABD23 /* Лабораторная работа 15 */ = {
+			isa = PBXGroup;
+			children = (
+				AB62309327720953001ABD23 /* 1.cpp */,
+				AB6230952772095B001ABD23 /* 2.cpp */,
+				AB62309727720964001ABD23 /* 3.cpp */,
+				AB6230992772096A001ABD23 /* 4.cpp */,
+				AB62309B27720973001ABD23 /* 5.cpp */,
+				AB62309D2772097B001ABD23 /* 6.cpp */,
+			);
+			path = "Лабораторная работа 15";
+			sourceTree = "<group>";
+		};
 		AB69DCF92703024A00BC6232 /* Лабораторная работа 5 */ = {
 			isa = PBXGroup;
 			children = (
@@ -293,6 +318,7 @@
 		ABD16B3427025FC3002801D9 /* LaboratoryWorks */ = {
 			isa = PBXGroup;
 			children = (
+				AB6230922772093A001ABD23 /* Лабораторная работа 15 */,
 				ABF93A40276F6D41005F7498 /* Лабораторная работа 14 */,
 				ABF93A35276F55A9005F7498 /* Лабораторная работа 13 */,
 				AB50F5C2276CEC03009169B3 /* Лабораторная работа 12 */,
@@ -389,15 +415,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB62309A2772096A001ABD23 /* 4.cpp in Sources */,
 				AB1446B2276B58980072E854 /* 5.cpp in Sources */,
 				AB1446AC276B53A00072E854 /* 2.cpp in Sources */,
 				AB32D36F276A586A00642A91 /* 2.cpp in Sources */,
+				AB62309827720964001ABD23 /* 3.cpp in Sources */,
 				ABCC79B8273EBE0900F065C7 /* 2.cpp in Sources */,
 				ABCC79B6273EBBC700F065C7 /* 1.cpp in Sources */,
 				AB1446C1276B8C090072E854 /* 7.cpp in Sources */,
 				ABF93A48276F6D71005F7498 /* 4.cpp in Sources */,
 				AB1446B7276B5B1D0072E854 /* 2.cpp in Sources */,
 				AB32D371276A5F4800642A91 /* 3.cpp in Sources */,
+				AB62309427720953001ABD23 /* 1.cpp in Sources */,
 				AB50F5C8276CF800009169B3 /* 3.cpp in Sources */,
 				AB50F5C1276CE6FC009169B3 /* 6.cpp in Sources */,
 				AB69DD012703096900BC6232 /* 4.cpp in Sources */,
@@ -414,6 +443,7 @@
 				AB50F5BB276CDF43009169B3 /* 3.cpp in Sources */,
 				AB14BDA527026AFF0021F234 /* 3.cpp in Sources */,
 				AB1446AE276B56410072E854 /* 3.cpp in Sources */,
+				AB62309E2772097B001ABD23 /* 6.cpp in Sources */,
 				AB32D362276A333500642A91 /* 2.cpp in Sources */,
 				AB32D373276A5FB200642A91 /* 4.cpp in Sources */,
 				AB69DCFF270308F000BC6232 /* 3.cpp in Sources */,
@@ -428,6 +458,7 @@
 				AB32D360276A323100642A91 /* 1.cpp in Sources */,
 				ABF93A3F276F6A03005F7498 /* 5.cpp in Sources */,
 				ABF93A4C276F6D86005F7498 /* 6.cpp in Sources */,
+				AB6230962772095B001ABD23 /* 2.cpp in Sources */,
 				ABF93A42276F6D51005F7498 /* 1.cpp in Sources */,
 				AB32D368276A4EA200642A91 /* 5.cpp in Sources */,
 				AB53F0A02767995600719567 /* 5.cpp in Sources */,
@@ -442,6 +473,7 @@
 				AB32D364276A33EA00642A91 /* 3.cpp in Sources */,
 				ABD16B3627025FC3002801D9 /* 1.cpp in Sources */,
 				AB32D35D276A2B6700642A91 /* 7.cpp in Sources */,
+				AB62309C27720973001ABD23 /* 5.cpp in Sources */,
 				AB50F5C4276CEC29009169B3 /* 1.cpp in Sources */,
 				ABF93A4A276F6D7D005F7498 /* 5.cpp in Sources */,
 				AB53F0A227679A1200719567 /* 6.cpp in Sources */,
