@@ -4,17 +4,17 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    int n, sum = 0, i = 0;
+    int s = 1000, p, i = 0;
     
-    cout << "Введите число N: ";
-    cin >> n;
+    cout << "Введите процентную ставку на вклад: ";
+    cin >> p;
     
-    while (sum < n){
+    while (s < 1100){
+        s += s * (p / 100);
         i++;
-        sum += i;
     }
     
-    cout << "Наименьшее число K равно: " << i;
+    cout << "Итоговая сумма: " << s << ". Эта сумма накопится за " << i << " месяцев";
     
     return 0;
 }
