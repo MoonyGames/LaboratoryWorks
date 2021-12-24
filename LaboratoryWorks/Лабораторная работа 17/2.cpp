@@ -16,7 +16,7 @@ int main(int argc, const char * argv[]) {
         cin >> a[i];
     }
     
-    for (int i = 1; i < n - 1; i++){ if(a[i + 1] - a[i] == a[i] - a[i - 1]) count++;
+    for (int i = 1; i < n - 1; i++) if(a[i + 1] - a[i] == a[i] - a[i - 1]) count++;
     
     if (count + 2 == n) cout << "Разность прогрессии: " << a[1] - a[0];
     else cout << "0";
