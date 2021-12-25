@@ -60,6 +60,7 @@
 		AB898E3D2775E8E700C5D4D8 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB898E3C2775E8E700C5D4D8 /* 1.cpp */; };
 		AB898E3F2775EC8F00C5D4D8 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB898E3E2775EC8F00C5D4D8 /* 2.cpp */; };
 		ABC6C7A527776631009F43EA /* 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABC6C7A427776631009F43EA /* 3.cpp */; };
+		ABC6C7A727777A39009F43EA /* 4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABC6C7A627777A39009F43EA /* 4.cpp */; };
 		ABC8A8A22774A9D3002948A6 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABC8A8A12774A9D3002948A6 /* 1.cpp */; };
 		ABC8A8A42774B499002948A6 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABC8A8A32774B499002948A6 /* 2.cpp */; };
 		ABC8A8A62774B6B1002948A6 /* 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ABC8A8A52774B6B1002948A6 /* 3.cpp */; };
@@ -150,6 +151,7 @@
 		AB898E3C2775E8E700C5D4D8 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		AB898E3E2775EC8F00C5D4D8 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
 		ABC6C7A427776631009F43EA /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
+		ABC6C7A627777A39009F43EA /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		ABC8A8A12774A9D3002948A6 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		ABC8A8A32774B499002948A6 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
 		ABC8A8A52774B6B1002948A6 /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
@@ -304,6 +306,7 @@
 				AB898E3C2775E8E700C5D4D8 /* 1.cpp */,
 				AB898E3E2775EC8F00C5D4D8 /* 2.cpp */,
 				ABC6C7A427776631009F43EA /* 3.cpp */,
+				ABC6C7A627777A39009F43EA /* 4.cpp */,
 			);
 			path = "Лабораторная работа 17";
 			sourceTree = "<group>";
@@ -474,6 +477,7 @@
 				AB1446AA276B52A60072E854 /* 1.cpp in Sources */,
 				AB53F09E2767958F00719567 /* 4.cpp in Sources */,
 				AB50F5B9276CDEBC009169B3 /* 2.cpp in Sources */,
+				ABC6C7A727777A39009F43EA /* 4.cpp in Sources */,
 				AB1446BD276B61830072E854 /* 5.cpp in Sources */,
 				ABF93A32276E0DFA005F7498 /* 4.cpp in Sources */,
 				ABF93A46276F6D66005F7498 /* 3.cpp in Sources */,
