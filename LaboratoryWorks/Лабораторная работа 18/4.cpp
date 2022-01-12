@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    int n, min, max = 0, minIndex, maxIndex;
+    int n, min, max, minIndex, maxIndex;
     
     cout << "Введите размер массива: ";
     cin >> n;
@@ -15,14 +15,15 @@ int main(int argc, const char * argv[]) {
         cin >> a[i];
     }
     
+    min = a[0];
+    max = a[0];
+    
     for (int i = 0; i < n; ++i){
         if (a[i] > max){
             max = a[i];
             maxIndex = i;
         }
     }
-    
-    min = max;
     
     for (int i = 0; i < n; ++i){
         if (a[i] < min){
