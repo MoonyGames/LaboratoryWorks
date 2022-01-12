@@ -30,4 +30,6 @@ int main(int argc, const char * argv[]) {
     for (int i = 0; i < n; i++){
         cout << i << " элемент массива B: " << b[i];
     }
+    
+    return 0;
 }
