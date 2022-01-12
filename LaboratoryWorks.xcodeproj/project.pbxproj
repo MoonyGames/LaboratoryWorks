@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB05628D278F056E00B3C44E /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB05628C278F056E00B3C44E /* 1.cpp */; };
 		AB1446AA276B52A60072E854 /* 1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB1446A9276B52A60072E854 /* 1.cpp */; };
 		AB1446AC276B53A00072E854 /* 2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB1446AB276B53A00072E854 /* 2.cpp */; };
 		AB1446AE276B56410072E854 /* 3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AB1446AD276B56410072E854 /* 3.cpp */; };
@@ -104,6 +105,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		AB05628C278F056E00B3C44E /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		AB1446A9276B52A60072E854 /* 1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		AB1446AB276B53A00072E854 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
 		AB1446AD276B56410072E854 /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
@@ -200,6 +202,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AB05628B278F055D00B3C44E /* Лабораторная работа 19 */ = {
+			isa = PBXGroup;
+			children = (
+				AB05628C278F056E00B3C44E /* 1.cpp */,
+			);
+			path = "Лабораторная работа 19";
+			sourceTree = "<group>";
+		};
 		AB1446A8276B52910072E854 /* Лабораторная работа 9 */ = {
 			isa = PBXGroup;
 			children = (
@@ -381,6 +391,7 @@
 		ABD16B3427025FC3002801D9 /* LaboratoryWorks */ = {
 			isa = PBXGroup;
 			children = (
+				AB05628B278F055D00B3C44E /* Лабораторная работа 19 */,
 				AB9829DB278D811A0044BF09 /* Лабораторная работа 18 */,
 				AB898E3B2775E8D400C5D4D8 /* Лабораторная работа 17 */,
 				ABC8A8A02774A9BA002948A6 /* Лабораторная работа 16 */,
@@ -527,6 +538,7 @@
 				AB32D36A276A4FBB00642A91 /* 6.cpp in Sources */,
 				AB50F5BF276CE187009169B3 /* 5.cpp in Sources */,
 				AB14BDA327026A4D0021F234 /* 2.cpp in Sources */,
+				AB05628D278F056E00B3C44E /* 1.cpp in Sources */,
 				AB14BDA727026BC60021F234 /* 4.cpp in Sources */,
 				AB1446B9276B5B9C0072E854 /* 3.cpp in Sources */,
 				AB32D360276A323100642A91 /* 1.cpp in Sources */,
