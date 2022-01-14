@@ -13,19 +13,22 @@ int main (int argc, const char * argv[]) {
     for (int i = 0; i < n; i++){
         cout << "Введите " << i << " элемент массива A: ";
         cin >> k;
+        
         index.push_back(k);
         if (k < 0) index.push_back(0);
     }
     
     int result[index.size()];
+    
     k = 0;
+    
     for (int const &i: index) {
         result[k++] = i;
     }
  
     for (int const &i: result) {
-        std::cout << i << ' ';
+        cout << i << endl;
     }
- 
+    
     return 0;
 }
